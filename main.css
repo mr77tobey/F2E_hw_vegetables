@@ -59,13 +59,13 @@ footer{
 
 .btn-group{
     width: 208px;
-    height: 29px;
+    min-height: 27px;
     display: flex;
     align-items: flex-start;
 }
 
 .btn{
-    margin: auto 12px auto 0;
+    margin: 0 12px 0 0;
     height: 24px;
 }
 
@@ -74,7 +74,7 @@ footer{
     height: 24px;
     min-width: 1px;
     background-color: #778A50;
-    margin: auto 9px auto 0;
+    margin: 0 9px 0 0;
 }
 
 .btn-word{
