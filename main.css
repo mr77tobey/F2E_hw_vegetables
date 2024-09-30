@@ -59,7 +59,7 @@ footer{
 
 .btn-group{
     width: 208px;
-    min-height: 27px;
+    max-height: 24px;
     display: flex;
     align-items: flex-start;
 }
